@@ -1,0 +1,11 @@
+{
+  "org": "rasbt",
+  "repo": "mlxtend",
+  "versions": [
+    {
+      "commit": "1aee767ef57b84a8191511a08955c583b65de382",
+      "tag": "",
+      "parsed_at": "2026-10-17T06:25:15.841788+00:00"
+    }
+  ]
+}
