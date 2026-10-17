@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rasbt/mlxtend/commit/1aee767ef57b84a8191511a08955c583b65de382",
       "git:hexsha": "1aee767ef57b84a8191511a08955c583b65de382",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rasbt/mlxtend/commit/d45c6568ea67e5d6affcb564e3f5b4a705a7efbf",
